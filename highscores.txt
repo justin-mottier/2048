@@ -1,0 +1,17 @@
+Pierre###42560
+Romain###28884
+Eddie###23912
+Sacha###5680
+Pop###10980//////////Sacha###968
+Florent###424
+Pierre###1540
+Guy###1308
+Tobi###656//////////Romain###19020
+Sacha###17852
+Jamie###11372
+Michel###10720
+Robert###3292//////////Jacques###3250
+Justin###2442
+Romain###2134
+Didier###512
+Tristan###230
